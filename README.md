@@ -1,1 +1,3 @@
-# Nonliear-Optics
+# Nonliear-optics
+We study experimentally and theoretically the interactions among ultrashort optical pulses in the soliton rain multiple-pulse dynamics of a fiber laser. The laser is mode-locked by a graphene saturable absorber fabricated using the mechanical transfer technique. Dissipative optical solitons aggregate into pulse bunches that exhibit complex behavior, which includes acceleration and bi-directional motion in the moving reference frame. The drift speed and direction depend on the bunch size and relative location in the cavity, punctuated by abrupt changes under bunch collisions. We model the main effects using the recently proposed noise-mediated pulse interaction mechanism, and obtain a good agreement with experiments. This highlights the major role of long-range Casimir-like interactions over dynamical pattern formations within ultrafast lasers.
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.133902
